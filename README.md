@@ -1,2 +1,6 @@
 # css-architecture
- CSS Architecture studie
+Studies in CSS Architecture
+
+### :hammer: Built on:
+Visual Studio Code
+
